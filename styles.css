@@ -37,7 +37,7 @@ h3 {
 /* Header */
 
 header {
-    padding: 3% 5%;
+    padding: 5%;
 }
 
 .header-container {
@@ -365,10 +365,6 @@ form {
 /* Mobile Styles */
 
 @media screen and (max-width:540px) {
-    
-    header {
-        padding: 5%;
-    }
     
     h1 {
         font-size: 2rem;
